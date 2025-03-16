@@ -3,11 +3,11 @@ atributos para comparação e, em seguida, exibe qual cidade tem vantagem em cad
 
 ## Funcionalidades
 
-- **Dados das Cidades**: O programa armazena informações sobre duas cidades, incluindo estado, código, nome, população, área, PIB, número de pontos turísticos, densidade populacional e PIB per capita.
+**Dados das Cidades**: O programa armazena informações sobre duas cidades, incluindo estado, código, nome, população, área, PIB, número de pontos turísticos, densidade populacional e PIB per capita.
 
-- **Cálculos Automáticos**: O programa calcula automaticamente a densidade populacional e o PIB per capita para cada cidade.
+**Cálculos Automáticos**: O programa calcula automaticamente a densidade populacional e o PIB per capita para cada cidade.
 
-- **Comparação de Atributos**: O usuário pode escolher dois atributos para comparar as cidades. Os atributos disponíveis são:
+**Comparação de Atributos**: O usuário pode escolher dois atributos para comparar as cidades. Os atributos disponíveis são:
 
   1. População
   2. Área
@@ -15,7 +15,7 @@ atributos para comparação e, em seguida, exibe qual cidade tem vantagem em cad
   4. Número de Pontos Turísticos
   5. Densidade Demográfica
 
-- **Resultados da Comparação**: O programa exibe qual cidade tem vantagem em cada atributo escolhido e, em seguida, soma os valores dos atributos para determinar qual cidade vence a rodada.
+**Resultados da Comparação**: O programa exibe qual cidade tem vantagem em cada atributo escolhido e, em seguida, soma os valores dos atributos para determinar qual cidade vence a rodada.
 
 ## Como Usar
 
